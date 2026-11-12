@@ -1,0 +1,6 @@
+*.env
+!app.env.example
+*.key
+*.pem
+.backup_cred
+id_*

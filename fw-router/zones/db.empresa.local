@@ -1,0 +1,9 @@
+$TTL 604800
+@	IN	SOA	ns1.empresa.local. admin.empresa.local. ( 2026111101 604800 86400 2419200 604800 )
+@	IN	NS	ns1.empresa.local.
+ns1	IN A 10.0.2.1
+fw-router	IN A 10.0.2.1
+web01	IN A 10.0.1.10
+file01	IN A 10.0.2.10
+db01	IN A 10.0.3.10
+
