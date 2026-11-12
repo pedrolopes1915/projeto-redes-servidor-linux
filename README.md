@@ -4,7 +4,11 @@ Projeto Final da disciplina de Redes e Sistemas Linux.
 
 Infraestrutura segmentada em três zonas (DMZ, LAN e DB), ligadas por um roteador/firewall Linux, com DNS e DHCP internos, servidor web com HTTPS e aplicação, banco PostgreSQL, servidor de arquivos Samba com cotas, backup automatizado e administração por SSH com chaves.
 
-- **Equipe:** [preencher nomes]
+- **Equipe:** 
+Eduardo Augusto Alves de Farias
+Kauã Brandão Rocha
+Marlon Ian Ferreira Dantas
+Pedro Vieira Salvador Lopes
 - **Ambiente:** VirtualBox com Ubuntu Server 26.04.1 LTS
 - **Domínio interno:** `empresa.local`
 
